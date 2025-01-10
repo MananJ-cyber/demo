@@ -1,2 +1,2 @@
 # demo
-Thi sis my first Git repositiory.
+This is my first Git repositiory.
